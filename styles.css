@@ -125,7 +125,7 @@ body {
       padding: 0.6rem;
     }
     #select-button {
-      font-size: 1.5rem; /* Más grande en móvil también */
+      font-size: 1rem; /* Más grande en móvil también */
       padding: 1.2rem 1.7rem;
     }
     #info-label {
@@ -156,3 +156,4 @@ body {
       margin-top: 18rem;
     }
   }
+
